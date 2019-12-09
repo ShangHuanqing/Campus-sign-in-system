@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/jsp/attendanceInfor.jsp=UTF-8
+encoding//WebContent/jsp/chooseclassInfo.jsp=UTF-8
+encoding//WebContent/jsp/courseInfor.jsp=UTF-8
+encoding//WebContent/jsp/coursePut.jsp=UTF-8
+encoding//WebContent/jsp/css/scroll_style.css=UTF-8
+encoding//WebContent/jsp/index.jsp=UTF-8
+encoding//src/main/java/com/cn/web/school/controller/AttendanceController.java=UTF-8
+encoding//src/main/java/com/cn/web/school/controller/ScheduleController.java=UTF-8
+encoding//src/main/webapp/jsp/login.jsp=UTF-8
